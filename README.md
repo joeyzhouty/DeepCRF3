@@ -3,7 +3,7 @@ If you feel this project helpful to your research, please cite the following two
 
 Source codes for
 
-* **Joey Tianyi Zhou, Meng Fang, Hao Zhang, Chen Gong, Xi Peng, Zhiguo Cao, Rick Siow Mong Goh "Learning with Annotation of Various Degrees", IEEE Transactions on Neural Network and Learning Systems (TNNLS), 
+* **Joey Tianyi Zhou, Meng Fang, Hao Zhang, Chen Gong, Xi Peng, Zhiguo Cao, Rick Siow Mong Goh "Learning with Annotation of Various Degrees", IEEE Transactions on Neural Network and Learning Systems (TNNLS)** 
 
 * @article{DBLP:journals/tnn/ZhouMH19,
   author    = {Joey Tianyi Zhou and
